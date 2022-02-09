@@ -1,0 +1,10 @@
+.kayitol{
+	width: 17px;
+	height:17px;
+}
+.golge{
+	-webkit-box-shadow: 0 0 5px 3px gray;
+	-moz-box-shadow: 0 0 5px 3px gray;
+	box-shadow: 0 0 5px 6px gray;
+	border-radius: 5%;
+}
